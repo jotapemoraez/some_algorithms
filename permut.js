@@ -36,5 +36,5 @@ let val = 0
   }
 
 
-console.log(permut([1,2,3,4,5,6,7,8,10,11,12]))
+console.log(permut([1,2,3]))
 console.log(val)
